@@ -1,0 +1,26 @@
+General Info about Pre-OPAL Neptune observations:-
+WFC3 DATA
+
+Nowhen has a 'complete' dataset of neptune. Many datasets on the MAST archive consist only of F845M observations.
+This filter appears to be a favourite of Neptune Observers.
+
+Filters used in the OPAL datasets:
+F467M 18
+F547M 2
+FQ619N 2
+F657N 0
+FQ727N 2
+F763M 0
+F845M 96
+
+Dates when images were taken:- 
+Filters		F467M	F547M	FQ619N	F657N	FQ727N	F763M	F845M
+2009-08-29 	1	1	1	0	1	0	0	Snapshot
+2009-10-22	0	0	0	0	0	0	12	Snapshot
+2010-06-16	0	0	0	0	0	0	12	Snapshot
+2010-06-29	0	0	0	0	0	0	12	Snapshot
+2010-08-09	0	0	0	0	0	0	12	Snapshot
+2010-08-28	1	1	1	0	1	0	0	Snapshot
+2011-06-25	16	0	0	0	0	0	48	Full Rotation!
+
+There are also some datasets taken "concurrent" with OPAL imaging, allowing for slightly more regular images of neptune?
