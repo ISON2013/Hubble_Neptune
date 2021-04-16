@@ -61,6 +61,7 @@ def get_ephemerides(hdr=None, return_eph=True, loc=None, epoch=None, target=None
             'io': 501,
             'europa': 502,
             'jupiter': 599,
+            'uranus': 799,
             'neptune': 899,
             }
     if target in target_dict:
